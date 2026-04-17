@@ -1,5 +1,5 @@
 **Course: Big Data Analytics and Application - Quiz 1 Challenge
-Author: Rehan Ali **   
+Author: Rehan Ali **  
 
 **# Automated-Ecommerce-Multimodal-Pipeline**
 A metadata-driven pipeline that automates e-commerce product image generation (using FLUX.1) and audio advertisements (using gTTS) with a focus on visual consistency and technical evaluation.
@@ -23,7 +23,7 @@ This project is a high-performance, metadata-driven pipeline designed to automat
 **## 🚀 Key Technical Features**
 
 **### 1. Data-to-Prompt Mapping Engine**
-The system parses a `products_metadata.json` file to dynamically construct structured prompts. This ensures every generated image aligns perfectly with product specifications (color, material, category).
+The system parses a `products_metadata.json` file to construct structured prompts dynamically. This ensures every generated image aligns perfectly with product specifications (color, material, category).
 
 **### 2. Multi-View Consistency (Task 2)**
 Using fixed seed control and attribute-locking, the pipeline generates consistent views for a single product (e.g., a premium bag):
@@ -60,7 +60,7 @@ Includes a built-in logging system (`generation_log.txt`) that records:
 **Clone the Repo:**
 
 Bash
-git clone [https://github.com/your-username/Automated-Ecommerce-Multimodal-Pipeline.git](https://github.com/your-username/Automated-Ecommerce-Multimodal-Pipeline.git)
+git clone [https://github.com/Rehan-rahim/Automated-Ecommerce-Multimodal-Pipeline]
 cd Automated-Ecommerce-Multimodal-Pipeline
 
 **Install Requirements:**
@@ -77,9 +77,9 @@ python main_pipeline.py
 🔍 Evaluation & Insights
 Prompt Engineering: Structured prompts reduced generic backgrounds and improved lighting by 85% compared to naive inputs.
 
-Failure Analysis: As seen in outputs/failure/text_failure.png, the model struggles with specific alphanumeric text (e.g., 'CS-5542'), highlighting the need for specialized OCR-refined models for labels.
+Failure Analysis: As shown in outputs/failure/text_failure.png, the model struggles with specific alphanumeric text (e.g., 'CS-5542'), highlighting the need for specialized OCR-refined models for label recognition.
 
 System Robustness: The integration of logging and try-except blocks ensures the pipeline remains stable during high-volume API calls.
 
 **🛡️ AI Disclosure**
-This project utilizes the FLUX.1-schnell model for image synthesis and gTTS for audio generation. Code architecture and documentation were developed with assistance from Gemini AI.    
+This project utilizes the FLUX.1-schnell model for image synthesis and gTTS for audio generation. Code architecture and documentation were developed with assistance from Gemini AI. 

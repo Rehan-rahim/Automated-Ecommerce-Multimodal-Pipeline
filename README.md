@@ -55,6 +55,18 @@ Includes a built-in logging system (`generation_log.txt`) that records:
 ├── generation_log.txt            # Real-time System Logs
 └── README.md                     # Documentation
 
+=> generation_log.txt
+
+2026-04-16 22:04:56,227 - INFO - SUCCESS: P01_naive.png generated in comparison
+2026-04-16 22:04:59,171 - INFO - SUCCESS: P01_structured.png generated in comparison
+2026-04-16 22:05:18,997 - INFO - SUCCESS: P02_naive.png generated in comparison
+2026-04-16 22:05:49,964 - INFO - SUCCESS: P02_structured.png generated in comparison
+2026-04-16 22:06:27,157 - INFO - SUCCESS: P01_side_profile.png generated in consistency
+2026-04-16 22:06:58,867 - INFO - SUCCESS: P01_top-down_view.png generated in consistency
+2026-04-16 22:07:03,773 - INFO - SUCCESS: P01_close-up_texture.png generated in consistency
+2026-04-16 22:07:06,905 - INFO - SUCCESS: text_failure.png generated in failure
+2026-04-16 22:07:10,006 - INFO - SUCCESS: P04_lifestyle_success.png generated in comparison
+2026-04-16 22:07:11,883 - INFO - SUCCESS: Audio ad generated for P01
 
 **🛠️ Installation & Setup**
 **Clone the Repo:**

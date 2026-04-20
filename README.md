@@ -1,5 +1,8 @@
 **Course: Big Data Analytics and Application - Quiz 1 Challenge
 Author: Rehan Ali **  
+GITHUB LINK: https://github.com/Rehan-rahim/Automated-Ecommerce-Multimodal-Pipeline
+DEMO VIDEO LINK: https://drive.google.com/file/d/1DLzpBvhHiPJz5yx_gFy2dmNaEHQ9AUV-/view?usp=sharing
+
 
 **# Automated-Ecommerce-Multimodal-Pipeline**
 A metadata-driven pipeline that automates e-commerce product image generation (using FLUX.1) and audio advertisements (using gTTS) with a focus on visual consistency and technical evaluation.

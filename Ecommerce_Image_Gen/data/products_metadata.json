@@ -1,0 +1,26 @@
+[
+    {
+        "id": "P01",
+        "title": "Leather Weekend Bag",
+        "category": "Travel & Luggage",
+        "attributes": "dark brown premium leather, brass buckles, vintage duffle style"
+    },
+    {
+        "id": "P02",
+        "title": "Ergonomic Office Chair",
+        "category": "Furniture",
+        "attributes": "mesh back, adjustable armrests, black, modern minimalist design"
+    },
+    {
+        "id": "P03",
+        "title": "Smart Watch",
+        "category": "Electronics",
+        "attributes": "circular digital screen, metallic silver strap, premium finish"
+    },
+    {
+        "id": "P04",
+        "title": "Model Wearing Denim Jacket",
+        "category": "Apparel",
+        "attributes": "light blue premium denim, urban street style, model posing in soft sunlight"
+    }
+]
